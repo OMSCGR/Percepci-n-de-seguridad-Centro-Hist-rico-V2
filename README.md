@@ -1,2 +1,2 @@
 - 🏰 Percepción de inseguridad, convivencia ciudadana y satisfacción de servicios: comparativo 2024-2026: https://omscgr.github.io/Percepci-n-de-seguridad-Centro-Hist-rico-V2/
-- 💻 Notebook: https://colab.research.google.com/drive/18TQYIkNdX1XIhfgSO0O9nCnkDFTU239F?usp=sharing
+- 💻 Notebook: https://colab.research.google.com/drive/1vtlcd3wIqSj-WU2DINKcFrUHn3pY6EyK?usp=sharing 
